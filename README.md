@@ -25,7 +25,13 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 December, 2020 - 23 December, 2020
+
+Markdown     2 hrs 1 min     █████████████████░░░░░░░░   68.05 % 
+JavaScript   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Other        13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+HTML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Java         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 <!--END_SECTION:waka-->
 
