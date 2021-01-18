@@ -25,9 +25,10 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Swift   60 hrs 40 mins  ████████████████████████▓   99.18 % 
-XML     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Cocoa   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Swift    62 hrs 15 mins  ████████████████████████▒   97.73 % 
+Other    40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+XML      40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Java     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
 
