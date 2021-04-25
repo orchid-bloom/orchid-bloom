@@ -2,7 +2,7 @@
 
 I am just a iOS developer and I am glad to meet you!
 
-![Orchid's github stats](https://github-readme-stats.vercel.app/api?username=orchid-bloom&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
+![Orchid's github stats](https://github-readme-stats.vercel.app/api?username=orchid-bloom&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c&&theme=tokyonight)
 
 ### 📮 Contact Me
 
