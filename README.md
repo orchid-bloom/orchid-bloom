@@ -8,11 +8,6 @@ I am just a iOS developer and I am glad to meet you!
 
 [🏷 Email - temagsoft@gmail.com](mailto:temagsoft@gmail.com)
 
-
-### 🤪 Other
-
-- [My Blog](https://www.jianshu.com/u/fb6c72d338f8)
-
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
